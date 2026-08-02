@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vision-al-desarrollo-chacchan.github.io/sitemap.xml
